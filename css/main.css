@@ -91,3 +91,13 @@ section{
     padding-right: 110px;
     overflow: hidden;
 }
+
+
+
+/* 4.selectize customization */
+.selectize-input{
+    box-shadow: none;
+}
+.selectize-control{
+    display: flex;
+}
